@@ -1,0 +1,9 @@
+
+.a_img{
+    height: 250px;
+    width: 350px;
+}
+
+table, th, td{
+    border: 1px solid #000;
+}
